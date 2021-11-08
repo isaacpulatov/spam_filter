@@ -1,2 +1,2 @@
 # spam_filter
-Naive Bayes, from scratch, on the SMS Spam Collection
+Naive Bayes Classifier, from scratch, on the SMS Spam Collection
